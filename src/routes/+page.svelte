@@ -212,7 +212,7 @@
     >
         This project is
         <Button
-            href="https://github.com/Inglan/webtotp"
+            href="https://github.com/ingoau/webtotp"
             target="_blank"
             variant="outline"
         >
